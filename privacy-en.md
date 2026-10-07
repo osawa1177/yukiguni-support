@@ -5,7 +5,7 @@ permalink: /privacy/en/
 
 # Yukiguni Privacy Policy
 
-Last updated: September 29, 2026
+Last updated: October 8, 2026
 
 SEVEN DOT, LIMITED LIABILITY COMPANY ("we", "us") respects your privacy. This policy explains what information the iOS application "Yukiguni" ("the App") handles.
 
@@ -76,3 +76,8 @@ E-mail: info@seven-dot.jp
 ## 9. Changes to This Policy
 
 This policy may be updated as the App's features change. Material changes will be reflected by updating the "Last updated" date above.
+
+
+## 10. The App's Website
+
+The App's introduction website (the "Site") uses PostHog (PostHog, Inc., EU region) to understand how the Site is viewed and to improve it. The Site sends PostHog only page views and page exits (including how far the page was scrolled), clicks on App Store links, the display language, and basic information such as browser type, screen size, and referring URL. The Site does not use cookies or browser local storage; it measures with a temporary ID that is valid only while the page is open. IP addresses are anonymized by PostHog and are not stored. We do not collect personally identifying information such as your name or email address, and the data is not used for tracking or advertising.
